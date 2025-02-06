@@ -13,8 +13,10 @@ A **NativeScript React** app that lets users create, manage, and track timers  T
 ### **1️⃣ Install Dependencies**
 Ensure you have **Node.js** and **NativeScript CLI** installed.  
 ```sh
+install nativscript android/ios app 
 npm install -g nativescript
 
 git clone https://github.com/your-repo/nativescript-timer.git
 cd nativescript-timer
 npm install
+ng preview
